@@ -310,10 +310,9 @@ a permanent remote work arrangement. Manager approval is required.
 
 ## 6. Client Message
 
-> **To:** [Product Owner]
-> **Re:** Policy Assistant v1 — what we've built and what's next
 
-Hi [Name],
+
+Hi,
 
 We've built and scoped the foundation of your Policy Assistant. Employees can now ask natural-language questions ("What's the international meal limit?") and get answers with exact citations back to the policy documents. The system refuses to answer when the documents don't cover a topic, and flags conflicts between policies rather than guessing.
 
