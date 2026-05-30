@@ -71,9 +71,9 @@ Rules:
 5. Output format:
 
 {
-  "answer_found": true,
-  "conflict_detected": false,
-  "answer": "...",
+  "answer_found": true  | false,
+  "conflict_detected": true | false,
+  "answer": "<natural language answer with inline [POL-XXX] citations>",
   "citations": [],
   "confidence": "high|medium|low"
 }
